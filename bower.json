@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap",
+  "version": "3.3.7",
+  "main": "css/bootstrap.css",
+  "description": "Bootstrap.css ek modülleri",
+  "homepage": "https://github.com/trendaxnet/Bootstrap",
+  "authors": [
+    "ali@trendax.net"
+  ],
+  "keywords": [
+    "bootstrap",
+    "trendax",
+    "trendaxnet-bootstrap"
+  ],
+  "license": "MIT"  
+}
